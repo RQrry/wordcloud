@@ -42,7 +42,7 @@ plt.show()
 # 保存图片
 wordcloud.to_file('img/flipped.jpg')
 ```
-![flipped](https://github.com/RQrry/wordcloud/blob/master/img/flipped.jpg)
+<div align=center><img src="https://github.com/RQrry/wordcloud/blob/master/img/flipped.jpg" alt="flipped" width="50%" height="50%" /></div>
 
 ### 中文词云
 
@@ -82,7 +82,7 @@ plt.show()
 # 保存图片
 wordcloud.to_file('img/flipped_cn.jpg')
 ```
-![flipped_cn](https://github.com/RQrry/wordcloud/blob/master/img/flipped_cn.jpg)
+<div align=center><img src="https://github.com/RQrry/wordcloud/blob/master/img/flipped_cn.jpg" alt="flipped_cn" width="50%" height="50%" /></div>
 
 ### 改变词云的背景
 
@@ -114,4 +114,4 @@ plt.show()
 # 保存图片
 wordcloud.to_file('img/flipped_bg.jpg')
 ```
-![flippen_bg](https://github.com/RQrry/wordcloud/blob/master/img/flipped_bg.jpg)
+<div align=center><img src="https://github.com/RQrry/wordcloud/blob/master/img/flipped_bg.jpg" alt="flipped_bg" width="50%" height="50%" /></div>
